@@ -30,6 +30,7 @@ Assert.assertTrue(false);
 	public void demo2()
 	{
 		System.out.println("bye");
+		System.out.println("again bye");
 	}
 
 	@AfterTest
