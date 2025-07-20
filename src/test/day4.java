@@ -24,5 +24,15 @@ public class day4
 	{
 		System.out.println("apiloginhome");
 		System.out.println("apiloginhome2");
+		System.out.println("apiloginhome3");
+		
+	}
+	@Test
+	public void LoginAPIhomeLoan2()
+	{
+		System.out.println("apiloginhome");
+		System.out.println("apiloginhome2");
+		System.out.println("apiloginhome3");
+		System.out.println("apiloginhome4");
 	}
 }
